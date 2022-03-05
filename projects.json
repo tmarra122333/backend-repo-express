@@ -2,19 +2,19 @@
     {
       "name": "Blackjack - Project 1",
       "live": "https://pages.git.generalassemb.ly/tmarra122333/Blackjack-21/",
-      "git": "http://www.github.com/username/reponame",
+      "git": "https://github.com/tmarra122333",
       "image": "https://grandcasinomn.com/files/5915/8393/8484/BlackjackTournament_775x356.jpg"
     },
     {
       "name": "closedOcean - Project 2",
       "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "git": "https://github.com/tmarra122333",
       "image": "http://www.imgur.com/pictureofproject.png"
     },
     {
         "name": "travelr - Project3",
         "live": "https://app.netlify.app/whatever",
-        "git": "http://www.github.com/username/reponame",
+        "git": "https://github.com/tmarra122333",
         "image": "http://www.imgur.com/pictureofproject.png"
       }
   ]
